@@ -44,7 +44,7 @@
 
 <br/><br/>
 
-[![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsh Kumar&show_icons=true)](https://github.com/Harsh7880)
+[![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsh7880&show_icons=true)](https://github.com/Harsh7880)
 
 <br/>
 
