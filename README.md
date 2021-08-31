@@ -10,7 +10,7 @@
 
 - 🎓 &nbsp; Studying  Electronics and Communication  Engineering at Dr. B. R. Ambedkar National Institute of Technology Jalandhar and coding stuffs.
 
-- 🌱 &nbsp; Learning about React.js, AWS.
+- 🌱 &nbsp; Exploring React.js.
 
 - ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
 
@@ -23,14 +23,13 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
 ![Markdown](http://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=Markdown&logoColor=magenta)
 ![Markdown](http://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=Markdown&logoColor=00599C)
-![Java](https://img.shields.io/badge/-React.js-000000?style=for-the-badge&logo=Java&logoColor=007396)
+![React](https://img.shields.io/badge/-React.js-000000?style=for-the-badge&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
-![SQL](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MySQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MySQL)
 
 ### Some of the technologies I have worked with-</br>
 ![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
 ![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
-![AWS](http://img.shields.io/badge/-AWS-000000?style=for-the-badge&logo=Amazon-aws&logoColor=cyan)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 </br></br></br></br>
 
