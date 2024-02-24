@@ -8,7 +8,7 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; Studying  Electronics and Communication  Engineering at Dr. B. R. Ambedkar National Institute of Technology Jalandhar and coding stuffs.
+- 🎓 &nbsp; Graduated in Electronics and Communication Engineering from Dr. B. R. Ambedkar National Institute of Technology Jalandhar and coding stuffs.
 
 - 🌱 &nbsp; Exploring React.js.
 
