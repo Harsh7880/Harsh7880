@@ -76,7 +76,7 @@
 
 
 
-<a href="https://www.linkedin.com/in/harsh-kumar-7880/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Harsh Kumar-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/harshkumar7880/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Harsh Kumar-blue?style=flat-square&logo=linkedin"></a>
 
 
 <a href="mailto:vijayk8478@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-vijayk8478@gmail.com-blue?style=flat-square&logo=gmail"></a>
