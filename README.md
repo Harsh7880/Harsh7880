@@ -1,7 +1,6 @@
 ### Hi there 👋<h2> I'm Harsh Kumar</h2>
 ### <h4> Software Engineer at RoboMQ</h4>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <h3> 👨🏻•💻 About Me </h3>
 
