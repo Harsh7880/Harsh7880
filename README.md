@@ -1,91 +1,82 @@
-### Hi there 👋<h2> I'm Harsh Kumar</h2>
-### <h4> Software Engineer at RoboMQ</h4>
+## Hi there 👋 I'm Harsh Kumar
 
+### 🚀 Software Development Engineer | Java | Node.js | React | Cloud & Microservices
 
-<h3> 👨🏻•💻 About Me </h3>
-
-
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-
-- 🎓 &nbsp; Graduated in Electronics and Communication Engineering from Dr. B. R. Ambedkar National Institute of Technology Jalandhar and coding stuffs.
-
-- 🌱 &nbsp; Exploring React.js.
-
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
-
-
-
-### I know more about- </br>
-![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=Java)
-![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&logo=CSS3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
-![Markdown](http://img.shields.io/badge/-Node.js-000000?style=for-the-badge&logo=Markdown&logoColor=magenta)
-![Markdown](http://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=Markdown&logoColor=00599C)
-![React](https://img.shields.io/badge/-React.js-000000?style=for-the-badge&logo=Java&logoColor=007396)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=for-the-badge&logo=MySQL)
-
-### Some of the technologies I have worked with-</br>
-![Git](http://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=Git)
-![Github](http://img.shields.io/badge/-Github-000000?style=for-the-badge&logo=Github&logoColor=green)
-![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
-</br></br></br></br>
-
-
--->
-
-<hr>
-
-
-
-<br/><br/>
-
-[![Harsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsh7880&show_icons=true)](https://github.com/Harsh7880)
-
-<br/>
-
-<br/>
-
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
-
-
-
-<br><br>
-
-
-
-<hr>
-
-
-
-<h3> 🤝🏻 Connect with Me </h3>
-
-<br>
-
-
-
-<p align="center">
-
-
-
-<a href="https://www.linkedin.com/in/harshkumar7880/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Harsh Kumar-blue?style=flat-square&logo=linkedin"></a>
-
-
-<a href="mailto:vijayk8478@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-vijayk8478@gmail.com-blue?style=flat-square&logo=gmail"></a>
-
+<p>
+I’m a Software Development Engineer with 3+ years of experience building scalable,
+secure, and high-performance backend and full-stack solutions.
+Currently working at <b>interface.ai</b>, previously at <b>RoboMQ</b>,
+where I contributed to enterprise-grade identity & access management platforms.
 </p>
 
+---
 
+## 👨🏻‍💻 About Me
 
+- 💼 **SDE at interface.ai** (Dec 2024 – Present)
+- 🏢 Ex **Associate Software Developer at RoboMQ**
+- 🎓 B.Tech in **Electronics & Communication Engineering** from **NIT Jalandhar**
+- 🔧 Strong focus on **Backend, Microservices & System Integration**
+- 🌱 Currently improving **React, System Design & Cloud-native architectures**
+- ⚡ Love optimizing performance, writing clean APIs, and solving real-world problems
 
+---
 
+## 🛠️ Tech Stack & Skills
 
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript)
+![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus)
 
+### ⚙️ Backend & Frameworks
+![Spring](https://img.shields.io/badge/Spring-000000?style=for-the-badge&logo=spring)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react)
+![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3)
+![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss)
 
+### 🗄️ Databases & Messaging
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-000000?style=for-the-badge&logo=rabbitmq)
 
+### 🧰 Tools & DevOps
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman)
 
-<hr>
+---
 
+## 📌 What I’ve Worked On
+
+- 🔐 Identity & Access Management systems (AD, Azure AD, Multi-Forest)
+- ⚙️ Java Microservices with performance optimizations (60% faster processing)
+- 🔄 HR & ATS integrations (HiBob, Greenhouse) using REST APIs
+- 📦 Secure data pipelines with PGP encryption
+- 🧪 Improved code quality with JUnit & SonarQube fixes
+- 🧩 Full-stack apps using MERN stack
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/harshkumar7880/">
+    <img src="https://img.shields.io/badge/LinkedIn-Harsh%20Kumar-blue?style=flat-square&logo=linkedin">
+  </a>
+  <a href="mailto:vijayk8478@gmail.com">
+    <img src="https://img.shields.io/badge/Email-vijayk8478@gmail.com-red?style=flat-square&logo=gmail">
+  </a>
+</p>
+
+---
+
+⭐ **Always open to collaborating on backend, system design, and full-stack projects.**
